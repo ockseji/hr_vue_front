@@ -1,0 +1,18 @@
+{
+  "@vite/client": {
+    "prefetch": true,
+    "isEntry": true,
+    "file": "@vite/client",
+    "css": [],
+    "module": true,
+    "resourceType": "script"
+  },
+  "C:/Users/A/Desktop/front_nuxt_240105/front_nuxt_240105/node_modules/.pnpm/nuxt@3.7.4_@types+node@20.8.6_eslint@8.51.0_sass@1.69.3_stylelint@15.10.3_typescript@5.2.2/node_modules/nuxt/dist/app/entry.js": {
+    "resourceType": "script",
+    "module": true,
+    "prefetch": true,
+    "preload": true,
+    "isEntry": true,
+    "file": "C:/Users/A/Desktop/front_nuxt_240105/front_nuxt_240105/node_modules/.pnpm/nuxt@3.7.4_@types+node@20.8.6_eslint@8.51.0_sass@1.69.3_stylelint@15.10.3_typescript@5.2.2/node_modules/nuxt/dist/app/entry.js"
+  }
+}
